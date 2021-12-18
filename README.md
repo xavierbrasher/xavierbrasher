@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xavierbrasher
-- 👀 I’m interested in HTML, Java, C#, Python
-- 🌱 I’m currently learning Java and C++
+- 👀 I’m interested in HTML, JavaScript, C#, Python
+- 🌱 I’m currently learning JavaScript and C++ 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me, through Github would be good
 
