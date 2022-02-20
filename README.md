@@ -11,6 +11,7 @@
 - C#
 - Javascript/Typescript
 - HTML/Css
+- Dart/Flutter
 - Not to flex but I know Git cli
 
 ## Languages I am currently learning
