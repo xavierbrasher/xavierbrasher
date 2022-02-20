@@ -22,9 +22,9 @@
 - Kotlin
 - Java
 
-## Frameworks I kinda slightly know
+## JS/TS Frameworks I Kinda Slightly know
 - none cause plain javascript is obv the best
-- react
+- React
 
 
 
