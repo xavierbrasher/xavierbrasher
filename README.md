@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me, through Github would be good
-- 23012022/8668846
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavierbrasher&theme=radical)
 
 <!---
 xavierbrasher/xavierbrasher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
