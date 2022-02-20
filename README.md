@@ -26,7 +26,13 @@
 - none cause plain javascript is obv the best
 - React
 
+## OS I use
+- Windows 11 pro max 128bit
+- Arch cause it is the best
 
+## Sexy editors
+- Jetbrains are amazing
+- Vscode when jetbrains isn't amazing
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavierbrasher&show_icons=true&theme=cobalt)
 ![Language most](https://github-readme-stats.vercel.app/api/top-langs/?username=xavierbrasher&theme=cobalt&layout=compact)
