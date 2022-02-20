@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me, through Github would be good
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavierbrasher&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavierbrasher&theme=dark)
 
 <!---
 xavierbrasher/xavierbrasher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
