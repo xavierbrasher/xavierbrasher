@@ -1,5 +1,5 @@
 ## About me
-- I am a proud student
+- I am a student
 - 14 years old
 - I code mostly for fun
 - A male
