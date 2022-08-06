@@ -1,6 +1,6 @@
 ## About me
 - I am a student
-- 14 years old
+- 15 years old
 - I code mostly for fun
 - A male
 - I love The Office
