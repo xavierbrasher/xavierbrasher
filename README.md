@@ -3,7 +3,7 @@
 - 15 years old
 - I code mostly for fun
 - A male
-- I love The Office
+- I love The Office and south park
 
 ## Languages I know
 - Python
